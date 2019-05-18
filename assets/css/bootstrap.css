@@ -1,0 +1,16 @@
+
+#name {
+    background-color:#4aaaa5;
+    position: absolute;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 30px;
+    width: fit-content;
+    height: 100%;
+    left: 0%;
+}
+
+footer {
+    background-color: gray;
+    padding: 1%;
+}
