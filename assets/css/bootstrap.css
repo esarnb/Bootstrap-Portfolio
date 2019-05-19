@@ -11,10 +11,26 @@
 }
 
 footer {
-    background-color: gray;
+    background-color: #666666;
     padding: 1%;
 }
 
+.jumbotron-fluid {
+    padding: 3%;
+}
+
 body {
-    background-color: lightslategray;
+    background-color: #dddddd;
+}
+
+h3 {
+    color: #4aaaa5;
+}
+
+p {
+    color: #777777;
+}
+
+#wrap {
+    width: 900px;
 }
