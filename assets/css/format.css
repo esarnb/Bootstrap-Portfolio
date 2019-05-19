@@ -61,3 +61,28 @@ hr {
 .btn {
     background-color: #4aaaa5;
 }
+
+.box {
+    background-color: #4aaaa5;
+    position: absolute;
+    width: 150px;
+    padding: 2%;
+    height: fit-content;
+    opacity: 0.9;
+    bottom: 10%;
+    line-height: 90%;
+    text-align: center;
+}
+
+.portfolio-img {
+    width: 150px;
+    height: 150px;
+}
+
+.portfolio-img, .box {
+    margin: 2% 0%;
+}
+
+.body-width {
+    width: 67%;
+}
