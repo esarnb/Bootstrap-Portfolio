@@ -52,3 +52,15 @@ footer {
 #name, .nav-link {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
+
+#wrap {
+    width: 900px;
+}
+
+hr {
+    border-top: 2px solid #cccccc;
+}
+
+{
+    float: left;
+}
