@@ -21,6 +21,9 @@
 footer {
     background-color: #666666;
     padding: 1%;
+    color: #dddddd;
+    font-size: 12px;
+    padding-top: 2%;
 }
 
 .jumbotron-fluid {
@@ -39,12 +42,6 @@ p, .nav-link{
     color: #777777;
 }
 
-footer {
-    color: #dddddd;
-    font-size: 12px;
-    padding-top: 2%;
-}
-
 * {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;   
 }
@@ -61,6 +58,6 @@ hr {
     border-top: 2px solid #cccccc;
 }
 
-{
-    float: left;
+.btn {
+    background-color: #4aaaa5;
 }
