@@ -32,9 +32,9 @@ If local, open the index.html file with your preferred browser. That's all there
 
 ## Built With
 
-* HTML - The web framework used
-* CSS - Dependency Management
-* [Bootstrap](https://bootstrap.com/) - Used to generate RSS Feeds
+* HTML 
+* CSS 
+* [Bootstrap](https://getbootstrap.com/) 
 
 ## Authors
 
